@@ -1,0 +1,77 @@
+/* =========================================================
+   NAVBAR: kill Darkly blue + keep same height in both modes
+   ========================================================= */
+
+/* Same height/padding always */
+.navbar {
+  padding-top: 0.55rem !important;
+  padding-bottom: 0.55rem !important;
+  box-shadow: none !important;
+  background-image: none !important;
+}
+
+/* --- DARK MODE detection (covers Quarto + Bootstrap variants) --- */
+html[data-bs-theme="dark"] .navbar,
+body.quarto-dark .navbar,
+html.quarto-dark .navbar,
+body[data-bs-theme="dark"] .navbar {
+  background-color: #1e1e1e !important; /* neutral dark */
+  background-image: none !important;
+}
+
+/* If Darkly applies bg-primary to navbar, override that too */
+html[data-bs-theme="dark"] .navbar.bg-primary,
+body.quarto-dark .navbar.bg-primary,
+html.quarto-dark .navbar.bg-primary,
+body[data-bs-theme="dark"] .navbar.bg-primary {
+  background-color: #1e1e1e !important;
+}
+
+/* Make text/icons readable in dark mode */
+html[data-bs-theme="dark"] .navbar .nav-link,
+html[data-bs-theme="dark"] .navbar .navbar-brand,
+html[data-bs-theme="dark"] .navbar a,
+body.quarto-dark .navbar .nav-link,
+body.quarto-dark .navbar .navbar-brand,
+body.quarto-dark .navbar a {
+  color: #ffffff !important;
+}
+
+/* Mobile hamburger visibility in dark mode */
+html[data-bs-theme="dark"] .navbar .navbar-toggler,
+body.quarto-dark .navbar .navbar-toggler {
+  border-color: rgba(255,255,255,0.35) !important;
+}
+html[data-bs-theme="dark"] .navbar .navbar-toggler-icon,
+body.quarto-dark .navbar .navbar-toggler-icon {
+  filter: invert(1) !important;
+}
+
+.project-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  gap: 1rem;
+  margin: 1.25rem 0 1.75rem;
+}
+
+.project-card {
+  border: 1px solid rgba(120, 120, 120, 0.25);
+  border-radius: 8px;
+  padding: 1rem;
+  background: rgba(255, 255, 255, 0.72);
+}
+
+.project-card h3 {
+  margin-top: 0;
+  font-size: 1.08rem;
+}
+
+.project-card p {
+  margin-bottom: 0.85rem;
+}
+
+html[data-bs-theme="dark"] .project-card,
+body.quarto-dark .project-card {
+  background: rgba(255, 255, 255, 0.06);
+  border-color: rgba(255, 255, 255, 0.18);
+}

@@ -1,0 +1,61 @@
+---
+title: "Nancy (Nanxi) Lu"
+subtitle: "Master's Student at The Bartlett Centre for Advanced Spatial Analysis, UCL"
+image: images/profile_pic.jpg
+about:
+  id: hero-heading
+  template: trestles
+  image-width: 15em
+  image-shape: rounded
+---
+
+```{r load_packages, message=FALSE, warning=FALSE, include=FALSE}
+library(fontawesome)
+```
+
+::: {#hero-heading}
+Hello! Welcome to my portfolio page.
+
+I am an urban planning and spatial data student interested in city regeneration, transport planning, urban spatial analysis and evidence-led design.
+
+[<i class="bi bi-github" style="font-size: 1.5rem;"></i>](https://github.com/Nanxi-lu) [<i class="bi bi-envelope" style="font-size: 1.5rem;"></i>](mailto:nanxi.lu.25@ucl.ac.uk)
+
+[About](about.qmd){.about-links .subtitle} [Coursework](coursework.qmd){.about-links .subtitle} [CV](cv.qmd){.about-links .subtitle}
+:::
+
+## Selected Work
+
+::: {.project-grid}
+::: {.project-card}
+### Gambling Exposure in London
+
+Spatial analysis of bookmaker distribution across London neighbourhoods, linking gambling exposure with housing pressure, economic inactivity and neighbourhood vulnerability.
+
+[View project](qm-gambling.qmd)
+:::
+
+::: {.project-card}
+### Chicago Crime Prediction
+
+Spatio-temporal analysis of Chicago crime incidents from 2022 to 2024, combining hotspot mapping, temporal decomposition, ARIMA/SARIMA and Random Forest forecasting.
+
+[View project](stdm-chicago-crime.qmd)
+:::
+
+::: {.project-card}
+### London Housing and Tube Connectivity
+
+Regression analysis of whether multi-line Underground interchange stations are associated with higher London house prices, controlling for distance, property type and deprivation.
+
+[Read report](coursework/London_Tube_PPD_Regression_2024.pdf){target="_blank"}
+:::
+:::
+
+## Research Interests
+
+- Urban spatial analysis and neighbourhood inequality
+- Transport planning, mobility and accessibility
+- GIS, spatial statistics and data visualisation
+- Urban regeneration and evidence-led planning
+
+[View references and project sources](references.qmd)

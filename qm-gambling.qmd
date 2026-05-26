@@ -1,0 +1,43 @@
+---
+title: "The Geography of Everyday Gambling Exposure in London"
+subtitle: "Quantitative Methods project"
+---
+
+## Project Overview
+
+This project examines how betting shops are distributed across London neighbourhoods and whether gambling exposure is associated with wider forms of social and housing vulnerability. The analysis uses bookmakers per 10,000 residents as a neighbourhood-level exposure measure and compares this with indicators including unemployment, economic inactivity, overcrowding and private renting.
+
+[Read the full report](coursework/qm-gambling/gambling-exposure-london.pdf){target="_blank"}
+
+## Research Focus
+
+- How unevenly are bookmakers distributed across London neighbourhoods?
+- Do areas with higher economic or housing pressure experience greater gambling exposure?
+- Which neighbourhood factors most strongly predict bookmakers per 10,000 residents?
+- Where do gambling exposure and social vulnerability combine into cumulative spatial risk?
+
+## Methods
+
+- OpenStreetMap bookmaker and gambling venue extraction.
+- 2021 MSOA boundaries for Greater London.
+- 2021 UK Census neighbourhood indicators.
+- Point-in-polygon spatial joining.
+- Population-normalised exposure metrics.
+- Regression modelling and spatial visualisation.
+- Neighbourhood risk mapping for cumulative exposure and vulnerability.
+
+## Selected Outputs
+
+![Bookmaker density across London neighbourhoods](coursework/qm-gambling/bookmaker-density.png)
+
+![Gambling exposure levels](coursework/qm-gambling/exposure-levels.png)
+
+![Regression effects for neighbourhood predictors](coursework/qm-gambling/regression-effects.png)
+
+## Key Findings
+
+Gambling exposure is highly uneven across London. Many neighbourhoods contain no betting shops, while a smaller number of central and East London areas experience high levels of exposure. The strongest associations appear around private renting and economic inactivity, suggesting that gambling exposure is linked to wider housing and labour-market pressure.
+
+The project frames gambling as a spatial inequality issue, not only an individual behaviour question. It shows how local planning, licensing and zoning decisions can shape everyday exposure to gambling environments.
+
+[Back to coursework](coursework.qmd)

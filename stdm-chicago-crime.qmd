@@ -1,0 +1,46 @@
+---
+title: "Spatio-Temporal Analysis and Prediction of Urban Crime in Chicago"
+subtitle: "Spatial-Temporal Data Analysis and Data Mining project"
+---
+
+## Project Overview
+
+This project analyses reported crime incidents in Chicago from 2022 to 2024. It combines exploratory spatial-temporal analysis with forecasting and machine learning to understand where crime clusters, how patterns change over time, and which models provide the strongest short-term prediction.
+
+[Read the full report](coursework/stdm-chicago-crime/chicago-crime-stdm-report.pdf){target="_blank"}
+
+## Research Focus
+
+- Where are crime incidents spatially concentrated in Chicago?
+- Do hotspots persist across 2022, 2023 and 2024?
+- How do crime counts vary by month, week, day and hour?
+- Can machine learning improve prediction compared with classical time-series models?
+
+## Methods
+
+- Chicago public crime records from 2022 to 2024.
+- Spatial cleaning and coordinate validation.
+- Monthly and weekly time-series aggregation.
+- STL decomposition and stationarity testing.
+- Spatial aggregation to grid cells.
+- Global Moran's I and Local Indicators of Spatial Association.
+- ARIMA, SARIMA, naive baseline and Random Forest forecasting.
+- Model evaluation using RMSE and MAE.
+
+## Selected Outputs
+
+![Crime counts aggregated to a 1 km grid](coursework/stdm-chicago-crime/crime-grid-counts.png)
+
+![Day-hour crime heatmap](coursework/stdm-chicago-crime/day-hour-heatmap.png)
+
+![STL decomposition of weekly crime counts](coursework/stdm-chicago-crime/stl-decomposition.png)
+
+![Forecast model comparison](coursework/stdm-chicago-crime/model-comparison.png)
+
+## Key Findings
+
+Crime shows strong spatial clustering, with persistent hotspots in central, western and southern parts of Chicago. Temporal patterns are also regular: crime increases during warmer months and concentrates around evening and weekend periods.
+
+For forecasting, the Random Forest model outperformed the naive, ARIMA and SARIMA benchmarks, suggesting that engineered temporal features can capture short-term variation more effectively than the classical statistical models tested in this project.
+
+[Back to coursework](coursework.qmd)

@@ -1,0 +1,29 @@
+---
+title: "About me..."
+---
+
+I am currently an MSc Urban Spatial Science student at the Bartlett Centre for Advanced Spatial Analysis, University College London. I hold a BSc Urban Planning and Development degree from Cardiff University. I am interested in city regeneration, transport planning, spatial analysis and evidence-led urban design.
+
+My work combines planning knowledge with digital and analytical tools, including GIS, spatial data science, statistical analysis and urban design software. I am committed to applying digital analytics to navigate complexity and support inclusive, practical and long-term decision-making in the built environment.
+
+View my [CV](cv.qmd) and [Coursework](coursework.qmd) →
+
+## Technical Proficiency
+
+**Languages**: Python, SQL, R
+
+**Tools**: Git and GitHub, ArcGIS Pro, QGIS, SNAP, Google Earth Engine, NetLogo, AutoCAD, SketchUp, Blender, Adobe Illustrator, Photoshop, InDesign, Microsoft Word, PowerPoint, Excel
+
+[View my GitHub →](https://github.com/Nanxi-lu)
+
+## Languages
+
+-   Mandarin Chinese and Shanghainese: native
+-   English: bilingual proficiency
+-   French: B2 proficiency
+-   Japanese: A2 working knowledge
+-   German: A1 basic knowledge
+
+## Interests and Hobbies
+
+-   Tennis, Running, Hiking, Pilates, Painting, Baking, Travelling

@@ -1,0 +1,66 @@
+---
+title: "Coursework"
+---
+
+Welcome! This page showcases a collection of my academic coursework from my Master's Degree in Urban Spatial Science and my Bachelor's Degree in Urban Planning and Development. Both completed works and projects currently in progress are included below.
+
+## MSc Urban Spatial Science, University College London
+
+### Spatial Analysis - CASA0005 Geographic Information Systems and Science
+
+#### TfL Vision Zero
+
+This is a spatial hotspot analysis examining where deaths and serious injuries cluster across London in 2024 using casualty data provided by TfL. The analysis applied point pattern analysis methods and spatial autocorrelation methods to identify statistically significant hotspot and coldspot areas and discuss policy implications for Vision Zero.
+
+Full report coming soon.
+
+#### New York Evictions
+
+This is a spatial hotspot analysis examining where eviction activities cluster across New York in 2020 using evictions data provided by NYC Open Data. The analysis applied point pattern analysis methods and spatial autocorrelation methods to identify statistically significant hotspot and coldspot areas, discussing areas to be prioritiesed for policy interventions.
+
+Full report coming soon.
+
+#### Graffiti San Francisco
+
+View the full report (HTML): coming soon…
+
+### CASA0007 Quantitative Methods
+
+#### The Geography of Everyday Gambling Exposure in London
+
+This project examines how betting shops are distributed across London neighbourhoods and whether exposure is linked to deprivation, housing pressure and labour-market vulnerability. It combines spatial joining, neighbourhood-level exposure metrics, regression modelling and risk mapping.
+
+View the project page: [Gambling Exposure in London](qm-gambling.qmd)
+
+#### House Prices and London Underground: Does Multiple Interchange Tube Stations Link with Higher London House Prices in 2024?
+
+Do multi-line Tube interchanges relate to higher house prices in London? This report analysed 82k+ property sales in London in 2024 from HM Land Registry Price Paid Data to test whether the connectivity level of the nearest Underground station (single-line vs 2-line vs 3+ line interchange) is associated with sale prices, controlling for property types, distance to central London, distance to nearest Tube station, and deprivation indicies (IMD). The final model explained a substantial variance (R² ≈ 0.527) and found higher prices near multi-line interchanges. Some local neighbourhood effects remain visible in the unexplained part of the model, supported by a positive Moran’s I (≈0.389). A technical appendix is included within the report.
+
+View the full report (PDF): [London House Prices and Underground Regression Analysis 2024](coursework/London_Tube_PPD_Regression_2024.pdf)
+
+### CEGE0042 Spatial-Temporal Data Analysis and Data Mining
+
+#### Spatio-Temporal Analysis and Prediction of Urban Crime in Chicago
+
+This project analyses Chicago crime incidents from 2022 to 2024 using exploratory spatial-temporal analysis, spatial autocorrelation, hotspot mapping and predictive modelling. It compares naive, ARIMA, SARIMA and Random Forest approaches for short-term crime forecasting.
+
+View the project page: [Chicago Crime STDM Project](stdm-chicago-crime.qmd)
+
+### CASA0023 Remotely Sensing Cities and Environments
+
+View my Learning Diary (Webpage): [CASA0023 Remotely Sensing Cities and Environments 25/26 Learning Diary](https://nanxi-lu.github.io/RSCE/)
+
+## BSc Urban Planning and Development, Cardiff University
+
+### Urban Regeneration Dissertation
+
+My dissertation compared urban regeneration in Cardiff Bay, UK and Durban Port, South Africa, examining how waterfront regeneration approaches differ across planning, governance and socio-economic contexts.
+
+### Other Courseworks
+
+-   Urban regeneration
+-   Sustainable environment
+-   Developing research methods
+-   Planning law and development management
+-   Site assessment and development appraisal
+-   Plan-making and spatial analysis

@@ -1,0 +1,46 @@
+project:
+  type: website
+  output-dir: docs
+  render:
+    - "*.qmd"
+    - "!slides/"
+  resources:
+    - .nojekyll
+    - slides/
+    - images/
+    - coursework/
+
+website:
+  title: "Nancy (Nanxi) Lu"
+  page-navigation: true
+  back-to-top-navigation: true
+  open-graph: true
+
+  navbar:
+    collapse: true
+    collapse-below: lg
+    right:
+      - text: "Homepage"
+        href: index.qmd
+      - text: "About"
+        href: about.qmd
+      - text: "Coursework"
+        href: coursework.qmd
+      - text: "CV"
+        href: cv.qmd
+      - text: "References"
+        href: references.qmd
+      - icon: github
+        href: "https://github.com/Nanxi-lu"
+
+format:
+  html:
+    theme:
+      light: cosmo
+      dark: darkly
+    css:
+      - style.css
+    toc: true
+    code-link: true
+
+editor: visual

@@ -1,0 +1,254 @@
+[
+  {
+    "objectID": "stdm-chicago-crime.html",
+    "href": "stdm-chicago-crime.html",
+    "title": "Spatio-Temporal Analysis and Prediction of Urban Crime in Chicago",
+    "section": "",
+    "text": "This project analyses reported crime incidents in Chicago from 2022 to 2024. It combines exploratory spatial-temporal analysis with forecasting and machine learning to understand where crime clusters, how patterns change over time, and which models provide the strongest short-term prediction.\nRead the full report"
+  },
+  {
+    "objectID": "stdm-chicago-crime.html#project-overview",
+    "href": "stdm-chicago-crime.html#project-overview",
+    "title": "Spatio-Temporal Analysis and Prediction of Urban Crime in Chicago",
+    "section": "",
+    "text": "This project analyses reported crime incidents in Chicago from 2022 to 2024. It combines exploratory spatial-temporal analysis with forecasting and machine learning to understand where crime clusters, how patterns change over time, and which models provide the strongest short-term prediction.\nRead the full report"
+  },
+  {
+    "objectID": "stdm-chicago-crime.html#research-focus",
+    "href": "stdm-chicago-crime.html#research-focus",
+    "title": "Spatio-Temporal Analysis and Prediction of Urban Crime in Chicago",
+    "section": "Research Focus",
+    "text": "Research Focus\n\nWhere are crime incidents spatially concentrated in Chicago?\nDo hotspots persist across 2022, 2023 and 2024?\nHow do crime counts vary by month, week, day and hour?\nCan machine learning improve prediction compared with classical time-series models?"
+  },
+  {
+    "objectID": "stdm-chicago-crime.html#methods",
+    "href": "stdm-chicago-crime.html#methods",
+    "title": "Spatio-Temporal Analysis and Prediction of Urban Crime in Chicago",
+    "section": "Methods",
+    "text": "Methods\n\nChicago public crime records from 2022 to 2024.\nSpatial cleaning and coordinate validation.\nMonthly and weekly time-series aggregation.\nSTL decomposition and stationarity testing.\nSpatial aggregation to grid cells.\nGlobal Moran’s I and Local Indicators of Spatial Association.\nARIMA, SARIMA, naive baseline and Random Forest forecasting.\nModel evaluation using RMSE and MAE."
+  },
+  {
+    "objectID": "stdm-chicago-crime.html#selected-outputs",
+    "href": "stdm-chicago-crime.html#selected-outputs",
+    "title": "Spatio-Temporal Analysis and Prediction of Urban Crime in Chicago",
+    "section": "Selected Outputs",
+    "text": "Selected Outputs\n\n\n\nCrime counts aggregated to a 1 km grid\n\n\n\n\n\nDay-hour crime heatmap\n\n\n\n\n\nSTL decomposition of weekly crime counts\n\n\n\n\n\nForecast model comparison"
+  },
+  {
+    "objectID": "stdm-chicago-crime.html#key-findings",
+    "href": "stdm-chicago-crime.html#key-findings",
+    "title": "Spatio-Temporal Analysis and Prediction of Urban Crime in Chicago",
+    "section": "Key Findings",
+    "text": "Key Findings\nCrime shows strong spatial clustering, with persistent hotspots in central, western and southern parts of Chicago. Temporal patterns are also regular: crime increases during warmer months and concentrates around evening and weekend periods.\nFor forecasting, the Random Forest model outperformed the naive, ARIMA and SARIMA benchmarks, suggesting that engineered temporal features can capture short-term variation more effectively than the classical statistical models tested in this project.\nBack to coursework"
+  },
+  {
+    "objectID": "qm-gambling.html",
+    "href": "qm-gambling.html",
+    "title": "The Geography of Everyday Gambling Exposure in London",
+    "section": "",
+    "text": "This project examines how betting shops are distributed across London neighbourhoods and whether gambling exposure is associated with wider forms of social and housing vulnerability. The analysis uses bookmakers per 10,000 residents as a neighbourhood-level exposure measure and compares this with indicators including unemployment, economic inactivity, overcrowding and private renting.\nRead the full report"
+  },
+  {
+    "objectID": "qm-gambling.html#project-overview",
+    "href": "qm-gambling.html#project-overview",
+    "title": "The Geography of Everyday Gambling Exposure in London",
+    "section": "",
+    "text": "This project examines how betting shops are distributed across London neighbourhoods and whether gambling exposure is associated with wider forms of social and housing vulnerability. The analysis uses bookmakers per 10,000 residents as a neighbourhood-level exposure measure and compares this with indicators including unemployment, economic inactivity, overcrowding and private renting.\nRead the full report"
+  },
+  {
+    "objectID": "qm-gambling.html#research-focus",
+    "href": "qm-gambling.html#research-focus",
+    "title": "The Geography of Everyday Gambling Exposure in London",
+    "section": "Research Focus",
+    "text": "Research Focus\n\nHow unevenly are bookmakers distributed across London neighbourhoods?\nDo areas with higher economic or housing pressure experience greater gambling exposure?\nWhich neighbourhood factors most strongly predict bookmakers per 10,000 residents?\nWhere do gambling exposure and social vulnerability combine into cumulative spatial risk?"
+  },
+  {
+    "objectID": "qm-gambling.html#methods",
+    "href": "qm-gambling.html#methods",
+    "title": "The Geography of Everyday Gambling Exposure in London",
+    "section": "Methods",
+    "text": "Methods\n\nOpenStreetMap bookmaker and gambling venue extraction.\n2021 MSOA boundaries for Greater London.\n2021 UK Census neighbourhood indicators.\nPoint-in-polygon spatial joining.\nPopulation-normalised exposure metrics.\nRegression modelling and spatial visualisation.\nNeighbourhood risk mapping for cumulative exposure and vulnerability."
+  },
+  {
+    "objectID": "qm-gambling.html#selected-outputs",
+    "href": "qm-gambling.html#selected-outputs",
+    "title": "The Geography of Everyday Gambling Exposure in London",
+    "section": "Selected Outputs",
+    "text": "Selected Outputs\n\n\n\nBookmaker density across London neighbourhoods\n\n\n\n\n\nGambling exposure levels\n\n\n\n\n\nRegression effects for neighbourhood predictors"
+  },
+  {
+    "objectID": "qm-gambling.html#key-findings",
+    "href": "qm-gambling.html#key-findings",
+    "title": "The Geography of Everyday Gambling Exposure in London",
+    "section": "Key Findings",
+    "text": "Key Findings\nGambling exposure is highly uneven across London. Many neighbourhoods contain no betting shops, while a smaller number of central and East London areas experience high levels of exposure. The strongest associations appear around private renting and economic inactivity, suggesting that gambling exposure is linked to wider housing and labour-market pressure.\nThe project frames gambling as a spatial inequality issue, not only an individual behaviour question. It shows how local planning, licensing and zoning decisions can shape everyday exposure to gambling environments.\nBack to coursework"
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "+44 7579 958 424 | Nanxiliam@hotmail.com | nanxi.lu.25@ucl.ac.uk | LinkedIn"
+  },
+  {
+    "objectID": "cv.html#nancy-nanxi-lu",
+    "href": "cv.html#nancy-nanxi-lu",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "+44 7579 958 424 | Nanxiliam@hotmail.com | nanxi.lu.25@ucl.ac.uk | LinkedIn"
+  },
+  {
+    "objectID": "cv.html#profile",
+    "href": "cv.html#profile",
+    "title": "Curriculum Vitae",
+    "section": "Profile",
+    "text": "Profile\nI am an urban planning and spatial data student interested in city regeneration, transport planning, urban spatial analysis and evidence-led design. My work combines planning knowledge with digital and analytical tools, including CAD, SketchUp, Photoshop, Illustrator, ArcGIS, QGIS, SQL, R, Python, NetLogo, machine learning and data mining.\nI have a strong understanding of UK planning systems, development processes and site assessment, with experience producing clear recommendations for practical and operational decisions. I am a diligent, adaptable and collaborative learner, with experience coordinating teamwork and contributing within multidisciplinary planning, design and transport environments."
+  },
+  {
+    "objectID": "cv.html#education",
+    "href": "cv.html#education",
+    "title": "Curriculum Vitae",
+    "section": "Education",
+    "text": "Education\nBrowse my coursework -&gt;\n\nMSc Urban Spatial Science, University College London, London, UK | September 2025 - September 2026\n\nRoyal Geographical Society with IBG accredited.\nCore modules include Geographic Information Systems and Science, Data Science for Spatial Systems, Building Spatial Applications with Big Data, Spatial-Temporal Data Analysis and Data Mining, and Agent-Based Modelling.\nDeveloping skills in spatial data analysis, geographic information systems, data science and urban modelling to analyse, visualise and apply complex spatial datasets to real-world urban challenges.\n\n\n\nBSc Urban Planning and Development (Hons), Cardiff University, Cardiff, UK | September 2022 - July 2025\n\nRICS and RTPI accredited.\nAwarded the Vice-Chancellor’s Scholarship for entry.\nDissertation: A Comparative Study of Regeneration in Cardiff Bay and Durban Port.\nRelevant modules include Urban Regeneration, Sustainable Environment and Developing Research Methods.\nBuilt a strong foundation in British planning legislation, sustainability principles, urban policy, site assessment, development processes and evidence-based planning.\n\n\n\nNational Senior Certificate, The Wykeham Collegiate, Pietermaritzburg, South Africa | January 2017 - December 2021\n\nSouth African IEB syllabus, equivalent to AAA at A-Level.\nTop 100 in KwaZulu-Natal for the National Mathematics Olympiad.\nSilver Medal for the National English Olympiad.\nBowman-Edgar Trophy for hard work and excellence."
+  },
+  {
+    "objectID": "cv.html#experience",
+    "href": "cv.html#experience",
+    "title": "Curriculum Vitae",
+    "section": "Experience",
+    "text": "Experience\n\nAssistant Transport Analyst, Liverpool City Region Combined Authority, Liverpool, UK | May 2026 - Present\n\nSupport the monitoring and evaluation of Liverpool City Region transport schemes by analysing how usage changes after new infrastructure is delivered.\n\n\n\nTransport Planning Intern, U.A Design China Ltd., Shanghai, China | September 2024 - November 2024\n\nAssisted planning and architecture teams on design projects in Shanghai during a remote role.\nPrepared development surveying reports based on regulatory planning documents.\nProduced transport planning maps and contributed to project presentations.\n\n\n\nPlanning Intern, Tus Design Group Ltd., Suzhou, China | June 2024 - August 2024\n\nContributed to tourism planning, industrial park planning and community street regeneration projects.\nSupported master planning work through research, 3D modelling, preliminary rendering and investment recommendations.\nUsed ArcGIS and regulatory maps to design proposed upgrades for outdated facilities in the Suzhou Pingjiang District Regeneration project.\nConducted resident surveys and contributed ethnographic research to support local regeneration recommendations.\nCollaborated with Architecture and BIM teams to integrate spatial-temporal data into a regulatory master plan for an Inner Mongolia industrial park, aligned with environmental sustainability legislation.\nContributed to work that won the Suzhou Urban and Rural Construction System Outstanding Survey and Design Urban Planning Second Prize in 2024.\nConducted historical research for a tourism project, joined site visits and drone-supported fieldwork, and helped develop project proposals.\n\n\n\nPlanning Intern, Jinghailang Planning Institute, Nantong, China | June 2023 - August 2023\n\nWorked on the Qidong Ancient City tourism development project by researching, building an evaluation system and assessing cultural tourism potential.\nContributed to a project ranked in the Top 10 of the Jiangsu Province Tourism Development Project in 2023.\n\n\n\nLandscape Architecture Summer Trainee, SANFIELD (Management) Ltd., Sun Hung Kai Properties, Hong Kong | July 2021 - August 2021\n\nAssisted with material selection, planning and execution of landscape projects, including showroom preparation for the Central Peak property development.\nCompleted a public park redevelopment design project using AutoCAD, SketchUp and Photoshop.\n\n\n\nDesign Assistant Intern, GYSO Pearls & Jewellery Ltd., Hong Kong | July 2020 - August 2020\n\nManaged showroom materials and edited Photoshop visuals for marketing use."
+  },
+  {
+    "objectID": "cv.html#leadership-and-achievements",
+    "href": "cv.html#leadership-and-achievements",
+    "title": "Curriculum Vitae",
+    "section": "Leadership and Achievements",
+    "text": "Leadership and Achievements\n\nVice Chair of the School Student Staff Panel, coordinating meetings between academic staff and student representatives and synthesising feedback on teaching and campus experience.\nAcademic Representative in Year One, acting as a formal liaison between students and the school.\nFounding Secretary of the Cardiff University Digital Urbanist Society, supporting society setup and administration.\nHead of Culture and Head of Strings Ensemble in high school.\nIEMA Foundation Certificate in Environmental Management Level 3, completed in January 2025."
+  },
+  {
+    "objectID": "cv.html#skills",
+    "href": "cv.html#skills",
+    "title": "Curriculum Vitae",
+    "section": "Skills",
+    "text": "Skills\n\nSpatial Analysis, Data and Planning Tools\n\nArcGIS, QGIS, Google Earth Engine, SatScan, SNAP and NetLogo.\nPython, R, SQL, SPSS, machine learning and data mining.\nAutoCAD, SketchUp, Blender, Adobe Photoshop, Illustrator and InDesign.\nMicrosoft Word, PowerPoint and Excel for reporting, presentations and data handling.\nGit and GitHub.\n\n\n\nLanguages\n\nMandarin Chinese and Shanghainese: native.\nEnglish: bilingual proficiency.\nFrench: B2 proficiency.\nJapanese: A2 working knowledge.\nGerman: A1 basic knowledge."
+  },
+  {
+    "objectID": "cv.html#volunteering",
+    "href": "cv.html#volunteering",
+    "title": "Curriculum Vitae",
+    "section": "Volunteering",
+    "text": "Volunteering\n\nCityPedia - Sustainable Transportation | January 2023 - Present\n\nTranslator and proofreader, translating academic research and industry news for non-English readers.\nConnected with global built environment and transport professionals through a volunteer network of more than 1,000 members.\n\n\n\nPlanning Aid Wales | December 2024 - August 2025\n\nGuided local communities and individuals through the Welsh planning system.\nAssisted with training sessions on planning legislation and best practice.\nConducted policy research, prepared briefing documents and helped refine outreach strategies for community engagement.\nMaintained records to support timely follow-up and issue resolution.\n\n\n\nCommunity Volunteering\n\nSupported food distribution in local communities through privately organised family and personal networks.\nVolunteer member with the Agency for Volunteer Service Hong Kong.\nVolunteered with Crossroads Foundation’s Global Distribution Computer Department through the AVS Miracle Summer Programme in August 2024."
+  },
+  {
+    "objectID": "cv.html#music-and-interests",
+    "href": "cv.html#music-and-interests",
+    "title": "Curriculum Vitae",
+    "section": "Music and Interests",
+    "text": "Music and Interests\n\nPiano: Trinity College London Grade 8 and South African National Eisteddfod Gold Medal.\nKeyboard player and music arranger for Cardiff University Orchestra.\nViolin: ABRSM Grade 6 and former concertmaster in high school’s ensemble.\nInterests include tennis, running, hiking, pilates, painting, baking and travelling.\n\nLearn more about me -&gt;"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About me…",
+    "section": "",
+    "text": "I am currently an MSc Urban Spatial Science student at the Bartlett Centre for Advanced Spatial Analysis, University College London. I hold a BSc Urban Planning and Development degree from Cardiff University. I am interested in city regeneration, transport planning, spatial analysis and evidence-led urban design.\nMy work combines planning knowledge with digital and analytical tools, including GIS, spatial data science, statistical analysis and urban design software. I am committed to applying digital analytics to navigate complexity and support inclusive, practical and long-term decision-making in the built environment.\nView my CV and Coursework →"
+  },
+  {
+    "objectID": "about.html#technical-proficiency",
+    "href": "about.html#technical-proficiency",
+    "title": "About me…",
+    "section": "Technical Proficiency",
+    "text": "Technical Proficiency\nLanguages: Python, SQL, R\nTools: Git and GitHub, ArcGIS Pro, QGIS, SNAP, Google Earth Engine, NetLogo, AutoCAD, SketchUp, Blender, Adobe Illustrator, Photoshop, InDesign, Microsoft Word, PowerPoint, Excel\nView my GitHub →"
+  },
+  {
+    "objectID": "about.html#languages",
+    "href": "about.html#languages",
+    "title": "About me…",
+    "section": "Languages",
+    "text": "Languages\n\nMandarin Chinese and Shanghainese: native\nEnglish: bilingual proficiency\nFrench: B2 proficiency\nJapanese: A2 working knowledge\nGerman: A1 basic knowledge"
+  },
+  {
+    "objectID": "about.html#interests-and-hobbies",
+    "href": "about.html#interests-and-hobbies",
+    "title": "About me…",
+    "section": "Interests and Hobbies",
+    "text": "Interests and Hobbies\n\nTennis, Running, Hiking, Pilates, Painting, Baking, Travelling"
+  },
+  {
+    "objectID": "coursework.html",
+    "href": "coursework.html",
+    "title": "Coursework",
+    "section": "",
+    "text": "Welcome! This page showcases a collection of my academic coursework from my Master’s Degree in Urban Spatial Science and my Bachelor’s Degree in Urban Planning and Development. Both completed works and projects currently in progress are included below."
+  },
+  {
+    "objectID": "coursework.html#msc-urban-spatial-science-university-college-london",
+    "href": "coursework.html#msc-urban-spatial-science-university-college-london",
+    "title": "Coursework",
+    "section": "MSc Urban Spatial Science, University College London",
+    "text": "MSc Urban Spatial Science, University College London\n\nSpatial Analysis - CASA0005 Geographic Information Systems and Science\n\nTfL Vision Zero\nThis is a spatial hotspot analysis examining where deaths and serious injuries cluster across London in 2024 using casualty data provided by TfL. The analysis applied point pattern analysis methods and spatial autocorrelation methods to identify statistically significant hotspot and coldspot areas and discuss policy implications for Vision Zero.\nFull report coming soon.\n\n\nNew York Evictions\nThis is a spatial hotspot analysis examining where eviction activities cluster across New York in 2020 using evictions data provided by NYC Open Data. The analysis applied point pattern analysis methods and spatial autocorrelation methods to identify statistically significant hotspot and coldspot areas, discussing areas to be prioritiesed for policy interventions.\nFull report coming soon.\n\n\nGraffiti San Francisco\nView the full report (HTML): coming soon…\n\n\n\nCASA0007 Quantitative Methods\n\nThe Geography of Everyday Gambling Exposure in London\nThis project examines how betting shops are distributed across London neighbourhoods and whether exposure is linked to deprivation, housing pressure and labour-market vulnerability. It combines spatial joining, neighbourhood-level exposure metrics, regression modelling and risk mapping.\nView the project page: Gambling Exposure in London\n\n\nHouse Prices and London Underground: Does Multiple Interchange Tube Stations Link with Higher London House Prices in 2024?\nDo multi-line Tube interchanges relate to higher house prices in London? This report analysed 82k+ property sales in London in 2024 from HM Land Registry Price Paid Data to test whether the connectivity level of the nearest Underground station (single-line vs 2-line vs 3+ line interchange) is associated with sale prices, controlling for property types, distance to central London, distance to nearest Tube station, and deprivation indicies (IMD). The final model explained a substantial variance (R² ≈ 0.527) and found higher prices near multi-line interchanges. Some local neighbourhood effects remain visible in the unexplained part of the model, supported by a positive Moran’s I (≈0.389). A technical appendix is included within the report.\nView the full report (PDF): London House Prices and Underground Regression Analysis 2024\n\n\n\nCEGE0042 Spatial-Temporal Data Analysis and Data Mining\n\nSpatio-Temporal Analysis and Prediction of Urban Crime in Chicago\nThis project analyses Chicago crime incidents from 2022 to 2024 using exploratory spatial-temporal analysis, spatial autocorrelation, hotspot mapping and predictive modelling. It compares naive, ARIMA, SARIMA and Random Forest approaches for short-term crime forecasting.\nView the project page: Chicago Crime STDM Project\n\n\n\nCASA0023 Remotely Sensing Cities and Environments\nView my Learning Diary (Webpage): CASA0023 Remotely Sensing Cities and Environments 25/26 Learning Diary"
+  },
+  {
+    "objectID": "coursework.html#bsc-urban-planning-and-development-cardiff-university",
+    "href": "coursework.html#bsc-urban-planning-and-development-cardiff-university",
+    "title": "Coursework",
+    "section": "BSc Urban Planning and Development, Cardiff University",
+    "text": "BSc Urban Planning and Development, Cardiff University\n\nUrban Regeneration Dissertation\nMy dissertation compared urban regeneration in Cardiff Bay, UK and Durban Port, South Africa, examining how waterfront regeneration approaches differ across planning, governance and socio-economic contexts.\n\n\nOther Courseworks\n\nUrban regeneration\nSustainable environment\nDeveloping research methods\nPlanning law and development management\nSite assessment and development appraisal\nPlan-making and spatial analysis"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Nancy (Nanxi) Lu",
+    "section": "",
+    "text": "Hello! Welcome to my portfolio page.\nI am an urban planning and spatial data student interested in city regeneration, transport planning, urban spatial analysis and evidence-led design.\n \nAbout Coursework CV"
+  },
+  {
+    "objectID": "index.html#selected-work",
+    "href": "index.html#selected-work",
+    "title": "Nancy (Nanxi) Lu",
+    "section": "Selected Work",
+    "text": "Selected Work\n\nGambling Exposure in London\nSpatial analysis of bookmaker distribution across London neighbourhoods, linking gambling exposure with housing pressure, economic inactivity and neighbourhood vulnerability.\nView project\nChicago Crime Prediction\nSpatio-temporal analysis of Chicago crime incidents from 2022 to 2024, combining hotspot mapping, temporal decomposition, ARIMA/SARIMA and Random Forest forecasting.\nView project\nLondon Housing and Tube Connectivity\nRegression analysis of whether multi-line Underground interchange stations are associated with higher London house prices, controlling for distance, property type and deprivation.\nRead report"
+  },
+  {
+    "objectID": "index.html#research-interests",
+    "href": "index.html#research-interests",
+    "title": "Nancy (Nanxi) Lu",
+    "section": "Research Interests",
+    "text": "Research Interests\n\nUrban spatial analysis and neighbourhood inequality\nTransport planning, mobility and accessibility\nGIS, spatial statistics and data visualisation\nUrban regeneration and evidence-led planning\n\nView references and project sources"
+  },
+  {
+    "objectID": "references.html",
+    "href": "references.html",
+    "title": "References and Project Sources",
+    "section": "",
+    "text": "This page collects the main reports, datasets and project outputs linked across my portfolio. It is intended as a practical reference page for readers who want to trace the work behind the selected projects."
+  },
+  {
+    "objectID": "references.html#project-reports",
+    "href": "references.html#project-reports",
+    "title": "References and Project Sources",
+    "section": "Project Reports",
+    "text": "Project Reports\n\nThe Geography of Everyday Gambling Exposure in London\nSpatio-Temporal Analysis and Prediction of Urban Crime in Chicago\nLondon House Prices and Underground Regression Analysis 2024"
+  },
+  {
+    "objectID": "references.html#project-pages",
+    "href": "references.html#project-pages",
+    "title": "References and Project Sources",
+    "section": "Project Pages",
+    "text": "Project Pages\n\nGambling Exposure in London\nChicago Crime STDM Project\nCoursework Overview"
+  },
+  {
+    "objectID": "references.html#data-sources-used-across-projects",
+    "href": "references.html#data-sources-used-across-projects",
+    "title": "References and Project Sources",
+    "section": "Data Sources Used Across Projects",
+    "text": "Data Sources Used Across Projects\n\nOpenStreetMap bookmaker and gambling venue data.\n2021 UK Census neighbourhood indicators.\n2021 Middle Layer Super Output Area boundaries for Greater London.\nHM Land Registry Price Paid Data.\nLondon Underground station and transport accessibility datasets.\nCity of Chicago public crime records."
+  },
+  {
+    "objectID": "references.html#methods-referenced-across-projects",
+    "href": "references.html#methods-referenced-across-projects",
+    "title": "References and Project Sources",
+    "section": "Methods Referenced Across Projects",
+    "text": "Methods Referenced Across Projects\n\nSpatial joins and neighbourhood-level exposure metrics.\nRegression modelling and model diagnostics.\nSpatial autocorrelation and Local Indicators of Spatial Association.\nTime-series decomposition, ARIMA and SARIMA.\nRandom Forest forecasting with engineered temporal features."
+  }
+]
