@@ -28,7 +28,7 @@ website:
       - text: "Coursework"
         href: coursework.qmd
       - text: "CV"
-        href: files/cv-mingyuan-you.pdf
+        href: cv.qmd
       - text: "References"
         href: references.qmd
       - text: "中文"

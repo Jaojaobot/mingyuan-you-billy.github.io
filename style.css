@@ -191,6 +191,26 @@ body.quarto-dark .navbar .navbar-toggler-icon {
   transform-origin: bottom left;
 }
 
+.cv-download-button {
+  display: inline-block;
+  margin: 0.25rem 0 1.5rem;
+  padding: 0.65rem 1rem;
+  border: 1px solid #53626d;
+  border-radius: 6px;
+  background-color: #53626d;
+  color: #ffffff !important;
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.cv-download-button:hover,
+.cv-download-button:focus {
+  background-color: #2f363b;
+  border-color: #2f363b;
+  color: #ffffff !important;
+  text-decoration: none;
+}
+
 #hero-heading .about-links {
   margin-left: 0;
 }

@@ -2,4 +2,10 @@
 title: "简历"
 ---
 
-[下载 Mingyuan You 的简历](files/cv-mingyuan-you.pdf){target="_blank"}
+[English](cv.qmd){.language-button}
+
+<p><a class="cv-download-button" href="files/cv-mingyuan-you.pdf" target="_blank" rel="noopener">下载 PDF</a></p>
+
+This page currently displays Mingyuan You's CV in English.
+
+[View the CV webpage](cv.qmd)
