@@ -1,0 +1,38 @@
+---
+title: "参考资料与项目来源"
+---
+
+[English](references.qmd){.language-button}
+
+本页汇总作品集中主要报告、数据来源与项目页面，方便读者追踪各项目背后的材料与方法。
+
+## 项目报告
+
+- [伦敦日常博彩暴露的空间分布](coursework/qm-gambling/gambling-exposure-london.pdf){target="_blank"}
+- [芝加哥城市犯罪时空分析与预测](coursework/stdm-chicago-crime/chicago-crime-stdm-report.pdf){target="_blank"}
+- [伦敦 MSOA 道路伤亡风险空间差异](coursework/dsss-road-casualty/road-casualty-risk-london.ipynb){target="_blank"}
+
+## 项目页面
+
+- [伦敦博彩暴露](qm-gambling-zh.qmd)
+- [芝加哥犯罪 STDM 项目](stdm-chicago-crime-zh.qmd)
+- [伦敦道路伤亡风险](dsss-road-casualty-zh.qmd)
+- [课程作品总览](coursework-zh.qmd)
+
+## 主要数据来源
+
+- OpenStreetMap bookmaker 与博彩地点数据。
+- 2021 年英国人口普查社区指标。
+- 2021 年 Greater London MSOA 边界。
+- 英国交通部道路伤亡记录。
+- 伦敦 MSOA 人口与贫困指标。
+- 芝加哥公共犯罪记录。
+
+## 主要方法
+
+- 空间连接与社区暴露指标。
+- 回归建模与模型诊断。
+- 空间自相关与 LISA 聚类。
+- 时间序列分解、ARIMA 与 SARIMA。
+- 随机森林预测与时间特征构建。
+- 树模型回归、排列重要性与部分依赖图。

@@ -1,0 +1,70 @@
+---
+title: "课程作品"
+---
+
+[English](coursework.qmd){.language-button}
+
+本页展示我在 MSc Urban Spatial Science 与 BSc Urban Planning and Development 期间完成的部分课程项目，包括已完成作品与仍在完善的研究方向。
+
+## MSc Urban Spatial Science, University College London
+
+### Spatial Analysis - CASA0005 Geographic Information Systems and Science
+
+#### TfL Vision Zero
+
+该项目使用 TfL 2024 年伤亡数据，分析伦敦死亡与重伤交通事故的空间聚集位置。研究采用点模式分析和空间自相关方法，识别显著热点与冷点，并讨论其对 Vision Zero 政策的启示。
+
+完整报告整理中。
+
+#### New York Evictions
+
+该项目使用 NYC Open Data 的 2020 年驱逐数据，分析纽约驱逐活动的空间聚集格局，并讨论哪些地区应被优先纳入政策干预。
+
+完整报告整理中。
+
+#### Graffiti San Francisco
+
+完整报告整理中。
+
+### CASA0007 Quantitative Methods
+
+#### The Geography of Everyday Gambling Exposure in London
+
+该项目分析伦敦博彩店在社区尺度上的分布，并探讨博彩暴露是否与贫困、住房压力和劳动力市场脆弱性相关。项目结合空间连接、社区暴露指标、回归建模与风险制图。
+
+查看项目页面：[伦敦博彩暴露](qm-gambling-zh.qmd)
+
+### CASA0006 Data Science for Spatial Systems
+
+#### Spatial Variation in Road Casualty Risk Across London MSOAs
+
+该项目研究伦敦不同社区道路伤亡风险的空间不平等。项目结合道路伤亡记录、MSOA 边界、人口与贫困指标，并应用空间自相关、LISA 聚类、OLS 与随机森林模型。
+
+查看项目页面：[伦敦道路伤亡风险](dsss-road-casualty-zh.qmd)
+
+### CEGE0042 Spatial-Temporal Data Analysis and Data Mining
+
+#### Spatio-Temporal Analysis and Prediction of Urban Crime in Chicago
+
+该项目分析 2022 至 2024 年芝加哥犯罪事件，结合探索性时空分析、空间自相关、热点制图与预测模型，并比较朴素基线、ARIMA、SARIMA 与随机森林的短期预测表现。
+
+查看项目页面：[芝加哥犯罪 STDM 项目](stdm-chicago-crime-zh.qmd)
+
+### CASA0023 Remotely Sensing Cities and Environments
+
+查看学习日志：[CASA0023 Remotely Sensing Cities and Environments 25/26 Learning Diary](https://nanxi-lu.github.io/RSCE/)
+
+## BSc Urban Planning and Development, Cardiff University
+
+### 城市更新毕业论文
+
+我的本科论文比较了英国 Cardiff Bay 与南非 Durban Port 的城市更新，分析不同滨水区更新路径在规划、治理与社会经济背景中的差异。
+
+### 其他课程方向
+
+- 城市更新
+- 可持续环境
+- 研究方法
+- 规划法与开发管理
+- 场地评估与开发评价
+- 规划编制与空间分析

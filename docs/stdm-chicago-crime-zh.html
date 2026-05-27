@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>References and Project Sources – Nancy (Nanxi) Lu</title>
+<title>芝加哥城市犯罪的时空分析与预测 – Nancy (Nanxi) Lu</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -75,8 +75,9 @@ ul.task-list li input[type="checkbox"] {
 
 
 <link rel="stylesheet" href="style.css">
-<meta property="og:title" content="References and Project Sources – Nancy (Nanxi) Lu">
-<meta property="og:description" content="">
+<meta property="og:title" content="芝加哥城市犯罪的时空分析与预测 – Nancy (Nanxi) Lu">
+<meta property="og:description" content="Spatial-Temporal Data Analysis and Data Mining 项目">
+<meta property="og:image" content="coursework/stdm-chicago-crime/crime-grid-counts.png">
 <meta property="og:site_name" content="Nancy (Nanxi) Lu">
 </head>
 
@@ -278,7 +279,7 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">CV</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./references.html" aria-current="page"> 
+    <a class="nav-link" href="./references.html"> 
 <span class="menu-text">References</span></a>
   </li>  
   <li class="nav-item">
@@ -307,10 +308,11 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#project-reports" id="toc-project-reports" class="nav-link active" data-scroll-target="#project-reports">Project Reports</a></li>
-  <li><a href="#project-pages" id="toc-project-pages" class="nav-link" data-scroll-target="#project-pages">Project Pages</a></li>
-  <li><a href="#data-sources-used-across-projects" id="toc-data-sources-used-across-projects" class="nav-link" data-scroll-target="#data-sources-used-across-projects">Data Sources Used Across Projects</a></li>
-  <li><a href="#methods-referenced-across-projects" id="toc-methods-referenced-across-projects" class="nav-link" data-scroll-target="#methods-referenced-across-projects">Methods Referenced Across Projects</a></li>
+  <li><a href="#项目概述" id="toc-项目概述" class="nav-link active" data-scroll-target="#项目概述">项目概述</a></li>
+  <li><a href="#研究问题" id="toc-研究问题" class="nav-link" data-scroll-target="#研究问题">研究问题</a></li>
+  <li><a href="#方法" id="toc-方法" class="nav-link" data-scroll-target="#方法">方法</a></li>
+  <li><a href="#代表输出" id="toc-代表输出" class="nav-link" data-scroll-target="#代表输出">代表输出</a></li>
+  <li><a href="#主要发现" id="toc-主要发现" class="nav-link" data-scroll-target="#主要发现">主要发现</a></li>
   </ul>
 </nav>
     </div>
@@ -320,7 +322,8 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">References and Project Sources</h1>
+<h1 class="title">芝加哥城市犯罪的时空分析与预测</h1>
+<p class="subtitle lead">Spatial-Temporal Data Analysis and Data Mining 项目</p>
 </div>
 
 
@@ -337,45 +340,66 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>This page collects the main reports, datasets and project outputs linked across my portfolio. It is intended as a practical reference page for readers who want to trace the work behind the selected projects.</p>
-<section id="project-reports" class="level2">
-<h2 class="anchored" data-anchor-id="project-reports">Project Reports</h2>
+<p><a href="./stdm-chicago-crime.html" class="language-button">English</a></p>
+<section id="项目概述" class="level2">
+<h2 class="anchored" data-anchor-id="项目概述">项目概述</h2>
+<p>该项目分析 2022 至 2024 年芝加哥报告犯罪事件，结合探索性时空分析、预测模型与机器学习，理解犯罪热点、时间变化与短期预测表现。</p>
+<p><a href="coursework/stdm-chicago-crime/chicago-crime-stdm-report.pdf" target="_blank">查看完整报告</a></p>
+</section>
+<section id="研究问题" class="level2">
+<h2 class="anchored" data-anchor-id="研究问题">研究问题</h2>
 <ul>
-<li><a href="coursework/qm-gambling/gambling-exposure-london.pdf" target="_blank">The Geography of Everyday Gambling Exposure in London</a></li>
-<li><a href="coursework/stdm-chicago-crime/chicago-crime-stdm-report.pdf" target="_blank">Spatio-Temporal Analysis and Prediction of Urban Crime in Chicago</a></li>
-<li><a href="coursework/dsss-road-casualty/road-casualty-risk-london.ipynb" target="_blank">Spatial Variation in Road Casualty Risk Across London MSOAs</a></li>
+<li>芝加哥犯罪事件主要集中在哪些空间区域？</li>
+<li>2022、2023 与 2024 年热点是否持续存在？</li>
+<li>犯罪数量如何按月份、星期、日期与小时变化？</li>
+<li>机器学习模型是否能优于传统时间序列模型？</li>
 </ul>
 </section>
-<section id="project-pages" class="level2">
-<h2 class="anchored" data-anchor-id="project-pages">Project Pages</h2>
+<section id="方法" class="level2">
+<h2 class="anchored" data-anchor-id="方法">方法</h2>
 <ul>
-<li><a href="./qm-gambling.html">Gambling Exposure in London</a></li>
-<li><a href="./stdm-chicago-crime.html">Chicago Crime STDM Project</a></li>
-<li><a href="./dsss-road-casualty.html">London Road Casualty Risk</a></li>
-<li><a href="./coursework.html">Coursework Overview</a></li>
+<li>2022 至 2024 年芝加哥公共犯罪记录。</li>
+<li>空间清洗与坐标验证。</li>
+<li>月度与周度时间序列聚合。</li>
+<li>STL 分解与平稳性检验。</li>
+<li>网格尺度空间聚合。</li>
+<li>Global Moran’s I 与 Local Indicators of Spatial Association。</li>
+<li>ARIMA、SARIMA、朴素基线与随机森林预测。</li>
+<li>使用 RMSE 与 MAE 评估模型表现。</li>
 </ul>
 </section>
-<section id="data-sources-used-across-projects" class="level2">
-<h2 class="anchored" data-anchor-id="data-sources-used-across-projects">Data Sources Used Across Projects</h2>
-<ul>
-<li>OpenStreetMap bookmaker and gambling venue data.</li>
-<li>2021 UK Census neighbourhood indicators.</li>
-<li>2021 Middle Layer Super Output Area boundaries for Greater London.</li>
-<li>UK Department for Transport road casualty records.</li>
-<li>London MSOA population and deprivation indicators.</li>
-<li>City of Chicago public crime records.</li>
-</ul>
+<section id="代表输出" class="level2">
+<h2 class="anchored" data-anchor-id="代表输出">代表输出</h2>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="coursework/stdm-chicago-crime/crime-grid-counts.png" class="img-fluid figure-img"></p>
+<figcaption>1 km 网格尺度犯罪数量</figcaption>
+</figure>
+</div>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="coursework/stdm-chicago-crime/day-hour-heatmap.png" class="img-fluid figure-img"></p>
+<figcaption>星期-小时犯罪热力图</figcaption>
+</figure>
+</div>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="coursework/stdm-chicago-crime/stl-decomposition.png" class="img-fluid figure-img"></p>
+<figcaption>周度犯罪数量 STL 分解</figcaption>
+</figure>
+</div>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="coursework/stdm-chicago-crime/model-comparison.png" class="img-fluid figure-img"></p>
+<figcaption>预测模型比较</figcaption>
+</figure>
+</div>
 </section>
-<section id="methods-referenced-across-projects" class="level2">
-<h2 class="anchored" data-anchor-id="methods-referenced-across-projects">Methods Referenced Across Projects</h2>
-<ul>
-<li>Spatial joins and neighbourhood-level exposure metrics.</li>
-<li>Regression modelling and model diagnostics.</li>
-<li>Spatial autocorrelation and Local Indicators of Spatial Association.</li>
-<li>Time-series decomposition, ARIMA and SARIMA.</li>
-<li>Random Forest forecasting with engineered temporal features.</li>
-<li>Tree-based regression, permutation importance and partial dependence plots.</li>
-</ul>
+<section id="主要发现" class="level2">
+<h2 class="anchored" data-anchor-id="主要发现">主要发现</h2>
+<p>犯罪事件呈现明显空间聚集，热点持续出现在芝加哥中心区、西部与南部部分区域。时间上，犯罪在温暖月份、傍晚与周末更为集中。</p>
+<p>在预测任务中，随机森林优于朴素基线、ARIMA 与 SARIMA，说明经过设计的时间特征能够更好捕捉短期波动。</p>
+<p><a href="./coursework-zh.html">返回课程作品</a></p>
 
 
 </section>

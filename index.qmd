@@ -14,6 +14,8 @@ library(fontawesome)
 ```
 
 ::: {#hero-heading}
+[中文](index-zh.qmd){.language-button}
+
 ::: {.hero-terminal .academic-block}
 `nanxi@casa:~$` `portfolio --open`
 

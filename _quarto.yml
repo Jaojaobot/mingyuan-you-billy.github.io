@@ -30,6 +30,8 @@ website:
         href: cv.qmd
       - text: "References"
         href: references.qmd
+      - text: "中文"
+        href: index-zh.qmd
       - icon: github
         href: "https://github.com/Nanxi-lu"
 

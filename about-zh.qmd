@@ -1,0 +1,31 @@
+---
+title: "关于我"
+---
+
+[English](about.qmd){.language-button}
+
+我目前就读于伦敦大学学院 Bartlett Centre for Advanced Spatial Analysis 的 MSc Urban Spatial Science 专业，本科毕业于卡迪夫大学 BSc Urban Planning and Development。我关注城市更新、交通规划、空间分析与循证城市设计。
+
+我的学习和项目经验将规划知识与数字分析工具结合起来，包括 GIS、空间数据科学、统计分析与城市设计软件。我希望用数据分析帮助理解复杂城市问题，并支持更包容、务实、长期的建成环境决策。
+
+查看我的 [简历](cv-zh.qmd) 和 [课程作品](coursework-zh.qmd) →
+
+## 技术能力
+
+**编程语言**：Python、SQL、R
+
+**工具**：Git 和 GitHub、ArcGIS Pro、QGIS、SNAP、Google Earth Engine、NetLogo、AutoCAD、SketchUp、Blender、Adobe Illustrator、Photoshop、InDesign、Microsoft Word、PowerPoint、Excel
+
+[查看我的 GitHub →](https://github.com/Nanxi-lu)
+
+## 语言
+
+- 普通话与上海话：母语
+- 英语：双语能力
+- 法语：B2
+- 日语：A2
+- 德语：A1
+
+## 兴趣爱好
+
+- 网球、跑步、徒步、普拉提、绘画、烘焙、旅行

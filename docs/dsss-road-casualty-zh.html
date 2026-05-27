@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>References and Project Sources – Nancy (Nanxi) Lu</title>
+<title>伦敦 MSOA 道路伤亡风险的空间差异 – Nancy (Nanxi) Lu</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -75,8 +75,9 @@ ul.task-list li input[type="checkbox"] {
 
 
 <link rel="stylesheet" href="style.css">
-<meta property="og:title" content="References and Project Sources – Nancy (Nanxi) Lu">
-<meta property="og:description" content="">
+<meta property="og:title" content="伦敦 MSOA 道路伤亡风险的空间差异 – Nancy (Nanxi) Lu">
+<meta property="og:description" content="Data Science for Spatial Systems 项目">
+<meta property="og:image" content="coursework/dsss-road-casualty/rf-feature-importance.png">
 <meta property="og:site_name" content="Nancy (Nanxi) Lu">
 </head>
 
@@ -278,7 +279,7 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">CV</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./references.html" aria-current="page"> 
+    <a class="nav-link" href="./references.html"> 
 <span class="menu-text">References</span></a>
   </li>  
   <li class="nav-item">
@@ -307,10 +308,12 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#project-reports" id="toc-project-reports" class="nav-link active" data-scroll-target="#project-reports">Project Reports</a></li>
-  <li><a href="#project-pages" id="toc-project-pages" class="nav-link" data-scroll-target="#project-pages">Project Pages</a></li>
-  <li><a href="#data-sources-used-across-projects" id="toc-data-sources-used-across-projects" class="nav-link" data-scroll-target="#data-sources-used-across-projects">Data Sources Used Across Projects</a></li>
-  <li><a href="#methods-referenced-across-projects" id="toc-methods-referenced-across-projects" class="nav-link" data-scroll-target="#methods-referenced-across-projects">Methods Referenced Across Projects</a></li>
+  <li><a href="#项目概述" id="toc-项目概述" class="nav-link active" data-scroll-target="#项目概述">项目概述</a></li>
+  <li><a href="#研究问题" id="toc-研究问题" class="nav-link" data-scroll-target="#研究问题">研究问题</a></li>
+  <li><a href="#方法" id="toc-方法" class="nav-link" data-scroll-target="#方法">方法</a></li>
+  <li><a href="#工作流程" id="toc-工作流程" class="nav-link" data-scroll-target="#工作流程">工作流程</a></li>
+  <li><a href="#代表输出" id="toc-代表输出" class="nav-link" data-scroll-target="#代表输出">代表输出</a></li>
+  <li><a href="#主要发现" id="toc-主要发现" class="nav-link" data-scroll-target="#主要发现">主要发现</a></li>
   </ul>
 </nav>
     </div>
@@ -320,7 +323,8 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">References and Project Sources</h1>
+<h1 class="title">伦敦 MSOA 道路伤亡风险的空间差异</h1>
+<p class="subtitle lead">Data Science for Spatial Systems 项目</p>
 </div>
 
 
@@ -337,45 +341,80 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>This page collects the main reports, datasets and project outputs linked across my portfolio. It is intended as a practical reference page for readers who want to trace the work behind the selected projects.</p>
-<section id="project-reports" class="level2">
-<h2 class="anchored" data-anchor-id="project-reports">Project Reports</h2>
+<p><a href="./dsss-road-casualty.html" class="language-button">English</a></p>
+<section id="项目概述" class="level2">
+<h2 class="anchored" data-anchor-id="项目概述">项目概述</h2>
+<p>该项目研究伦敦社区尺度上的道路伤亡风险空间不平等。项目结合英国交通部道路伤亡记录、MSOA 边界、人口数据与贫困指标，分析哪些地区年均伤亡率更高，高风险地区是否存在空间聚集，以及社区环境变量能否解释或预测伤亡风险。</p>
+<p><a href="coursework/dsss-road-casualty/road-casualty-risk-london.ipynb" target="_blank">下载 Notebook</a></p>
+</section>
+<section id="研究问题" class="level2">
+<h2 class="anchored" data-anchor-id="研究问题">研究问题</h2>
 <ul>
-<li><a href="coursework/qm-gambling/gambling-exposure-london.pdf" target="_blank">The Geography of Everyday Gambling Exposure in London</a></li>
-<li><a href="coursework/stdm-chicago-crime/chicago-crime-stdm-report.pdf" target="_blank">Spatio-Temporal Analysis and Prediction of Urban Crime in Chicago</a></li>
-<li><a href="coursework/dsss-road-casualty/road-casualty-risk-london.ipynb" target="_blank">Spatial Variation in Road Casualty Risk Across London MSOAs</a></li>
+<li>伦敦 MSOA 年均道路伤亡率分布有多不均衡？</li>
+<li>高风险与低风险 MSOA 是否呈现显著空间聚集？</li>
+<li>哪些空间、交通环境与贫困变量能够解释伤亡风险？</li>
+<li>树模型是否能在 OLS 基线之外提升预测表现？</li>
 </ul>
 </section>
-<section id="project-pages" class="level2">
-<h2 class="anchored" data-anchor-id="project-pages">Project Pages</h2>
+<section id="方法" class="level2">
+<h2 class="anchored" data-anchor-id="方法">方法</h2>
 <ul>
-<li><a href="./qm-gambling.html">Gambling Exposure in London</a></li>
-<li><a href="./stdm-chicago-crime.html">Chicago Crime STDM Project</a></li>
-<li><a href="./dsss-road-casualty.html">London Road Casualty Risk</a></li>
-<li><a href="./coursework.html">Coursework Overview</a></li>
+<li>将道路伤亡记录空间连接至 2021 年 MSOA 边界。</li>
+<li>构建每 1,000 名居民年均伤亡率。</li>
+<li>计算碰撞密度与人口密度。</li>
+<li>Global Moran’s I 与 LISA 空间聚类。</li>
+<li>嵌套 OLS 模型用于可解释分析。</li>
+<li>决策树与随机森林回归。</li>
+<li>排列重要性与部分依赖图用于模型解释。</li>
 </ul>
 </section>
-<section id="data-sources-used-across-projects" class="level2">
-<h2 class="anchored" data-anchor-id="data-sources-used-across-projects">Data Sources Used Across Projects</h2>
-<ul>
-<li>OpenStreetMap bookmaker and gambling venue data.</li>
-<li>2021 UK Census neighbourhood indicators.</li>
-<li>2021 Middle Layer Super Output Area boundaries for Greater London.</li>
-<li>UK Department for Transport road casualty records.</li>
-<li>London MSOA population and deprivation indicators.</li>
-<li>City of Chicago public crime records.</li>
-</ul>
+<section id="工作流程" class="level2">
+<h2 class="anchored" data-anchor-id="工作流程">工作流程</h2>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="coursework/dsss-road-casualty/methodology.jpg" class="img-fluid figure-img"></p>
+<figcaption>方法流程图</figcaption>
+</figure>
+</div>
 </section>
-<section id="methods-referenced-across-projects" class="level2">
-<h2 class="anchored" data-anchor-id="methods-referenced-across-projects">Methods Referenced Across Projects</h2>
-<ul>
-<li>Spatial joins and neighbourhood-level exposure metrics.</li>
-<li>Regression modelling and model diagnostics.</li>
-<li>Spatial autocorrelation and Local Indicators of Spatial Association.</li>
-<li>Time-series decomposition, ARIMA and SARIMA.</li>
-<li>Random Forest forecasting with engineered temporal features.</li>
-<li>Tree-based regression, permutation importance and partial dependence plots.</li>
-</ul>
+<section id="代表输出" class="level2">
+<h2 class="anchored" data-anchor-id="代表输出">代表输出</h2>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="coursework/dsss-road-casualty/casualty-rate-map.png" class="img-fluid figure-img"></p>
+<figcaption>伦敦 MSOA 每 1,000 名居民年均道路伤亡率</figcaption>
+</figure>
+</div>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="coursework/dsss-road-casualty/casualty-rate-distribution.png" class="img-fluid figure-img"></p>
+<figcaption>年均道路伤亡率分布</figcaption>
+</figure>
+</div>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="coursework/dsss-road-casualty/lisa-clusters.png" class="img-fluid figure-img"></p>
+<figcaption>道路伤亡风险 LISA 聚类</figcaption>
+</figure>
+</div>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="coursework/dsss-road-casualty/rf-observed-predicted.png" class="img-fluid figure-img"></p>
+<figcaption>随机森林观测值与预测值</figcaption>
+</figure>
+</div>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="coursework/dsss-road-casualty/rf-feature-importance.png" class="img-fluid figure-img"></p>
+<figcaption>随机森林变量重要性</figcaption>
+</figure>
+</div>
+</section>
+<section id="主要发现" class="level2">
+<h2 class="anchored" data-anchor-id="主要发现">主要发现</h2>
+<p>伦敦道路伤亡风险在 MSOA 尺度上分布不均，并呈现清晰的空间结构。热点与冷点说明本地风险受到社区环境与空间强度因素影响。</p>
+<p>模型结果显示，空间强度变量，尤其是碰撞密度，是预测伤亡率的重要因素。随机森林模型能够捕捉非线性关系并提升预测表现，但极端高风险地区仍更难准确预测，需要更细致的地方解释。</p>
+<p><a href="./coursework-zh.html">返回课程作品</a></p>
 
 
 </section>

@@ -1,0 +1,53 @@
+---
+title: "伦敦 MSOA 道路伤亡风险的空间差异"
+subtitle: "Data Science for Spatial Systems 项目"
+---
+
+[English](dsss-road-casualty.qmd){.language-button}
+
+## 项目概述
+
+该项目研究伦敦社区尺度上的道路伤亡风险空间不平等。项目结合英国交通部道路伤亡记录、MSOA 边界、人口数据与贫困指标，分析哪些地区年均伤亡率更高，高风险地区是否存在空间聚集，以及社区环境变量能否解释或预测伤亡风险。
+
+[下载 Notebook](coursework/dsss-road-casualty/road-casualty-risk-london.ipynb){target="_blank"}
+
+## 研究问题
+
+- 伦敦 MSOA 年均道路伤亡率分布有多不均衡？
+- 高风险与低风险 MSOA 是否呈现显著空间聚集？
+- 哪些空间、交通环境与贫困变量能够解释伤亡风险？
+- 树模型是否能在 OLS 基线之外提升预测表现？
+
+## 方法
+
+- 将道路伤亡记录空间连接至 2021 年 MSOA 边界。
+- 构建每 1,000 名居民年均伤亡率。
+- 计算碰撞密度与人口密度。
+- Global Moran's I 与 LISA 空间聚类。
+- 嵌套 OLS 模型用于可解释分析。
+- 决策树与随机森林回归。
+- 排列重要性与部分依赖图用于模型解释。
+
+## 工作流程
+
+![方法流程图](coursework/dsss-road-casualty/methodology.jpg)
+
+## 代表输出
+
+![伦敦 MSOA 每 1,000 名居民年均道路伤亡率](coursework/dsss-road-casualty/casualty-rate-map.png)
+
+![年均道路伤亡率分布](coursework/dsss-road-casualty/casualty-rate-distribution.png)
+
+![道路伤亡风险 LISA 聚类](coursework/dsss-road-casualty/lisa-clusters.png)
+
+![随机森林观测值与预测值](coursework/dsss-road-casualty/rf-observed-predicted.png)
+
+![随机森林变量重要性](coursework/dsss-road-casualty/rf-feature-importance.png)
+
+## 主要发现
+
+伦敦道路伤亡风险在 MSOA 尺度上分布不均，并呈现清晰的空间结构。热点与冷点说明本地风险受到社区环境与空间强度因素影响。
+
+模型结果显示，空间强度变量，尤其是碰撞密度，是预测伤亡率的重要因素。随机森林模型能够捕捉非线性关系并提升预测表现，但极端高风险地区仍更难准确预测，需要更细致的地方解释。
+
+[返回课程作品](coursework-zh.qmd)

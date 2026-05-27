@@ -1,0 +1,65 @@
+---
+title: "陆南希（Nancy / Nanxi Lu）"
+subtitle: "伦敦大学学院 Bartlett CASA 城市空间科学硕士生"
+image: images/profile_pic.jpg
+about:
+  id: hero-heading
+  template: trestles
+  image-width: 15em
+  image-shape: rounded
+---
+
+::: {#hero-heading}
+[English](index.qmd){.language-button}
+
+::: {.hero-terminal .academic-block}
+`nanxi@casa:~$` `portfolio --open --lang zh`
+
+<span class="hero-code-line">urban_planning + spatial_data + evidence_led_design</span>
+:::
+
+你好，欢迎来到我的个人作品集。
+
+我是一名关注 <span class="code-accent academic-accent">城市规划</span> 与 <span class="code-accent academic-accent">空间数据</span> 的学生，研究兴趣包括城市更新、交通规划、城市空间分析与循证设计。
+
+[<i class="bi bi-github" style="font-size: 1.5rem;"></i>](https://github.com/Nanxi-lu) [<i class="bi bi-envelope" style="font-size: 1.5rem;"></i>](mailto:nanxi.lu.25@ucl.ac.uk)
+
+[关于我](about-zh.qmd){.about-links .dynamic-link} [课程作品](coursework-zh.qmd){.about-links .dynamic-link} [简历](cv-zh.qmd){.about-links .dynamic-link}
+:::
+
+## 代表作品
+
+::: {.project-grid}
+::: {.project-card}
+### 伦敦日常博彩暴露的空间分布
+
+通过空间连接、邻里暴露指标、回归模型与风险制图，分析伦敦不同社区博彩店分布与住房压力、经济不活跃及社区脆弱性之间的关系。
+
+[查看项目](qm-gambling-zh.qmd)
+:::
+
+::: {.project-card}
+### 芝加哥城市犯罪时空预测
+
+基于 2022 至 2024 年芝加哥犯罪数据，结合热点制图、时间分解、ARIMA/SARIMA 与随机森林模型，分析犯罪的时空规律与短期预测表现。
+
+[查看项目](stdm-chicago-crime-zh.qmd)
+:::
+
+::: {.project-card}
+### 伦敦道路伤亡风险空间差异
+
+以伦敦 MSOA 为尺度，结合空间自相关、LISA 聚类、OLS 与随机森林模型，分析道路伤亡风险的空间不平等。
+
+[查看项目](dsss-road-casualty-zh.qmd)
+:::
+:::
+
+## 研究兴趣
+
+- 城市空间分析与社区不平等
+- 交通规划、出行与可达性
+- GIS、空间统计与数据可视化
+- 城市更新与循证规划
+
+[查看参考资料与项目来源](references-zh.qmd)

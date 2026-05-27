@@ -1,0 +1,129 @@
+---
+title: "简历"
+---
+
+[English](cv.qmd){.language-button}
+
+## Nancy (Nanxi) Lu / 陆南希
+
++44 7579 958 424 | [Nanxiliam@hotmail.com](mailto:Nanxiliam@hotmail.com) | [nanxi.lu.25@ucl.ac.uk](mailto:nanxi.lu.25@ucl.ac.uk) | [LinkedIn](https://www.linkedin.com/in/nanxilunae2003)
+
+## 个人简介
+
+我是一名城市规划与空间数据方向学生，关注城市更新、交通规划、城市空间分析与循证设计。我的项目结合规划知识与数字分析工具，包括 CAD、SketchUp、Photoshop、Illustrator、ArcGIS、QGIS、SQL、R、Python、NetLogo、机器学习与数据挖掘。
+
+我熟悉英国规划体系、开发流程与场地评估，并具备将数据分析转化为清晰建议的经验。我学习能力强，适应性好，重视协作，也有在多学科规划、设计与交通环境中工作的经历。
+
+## 教育经历
+
+[查看课程作品 ->](coursework-zh.qmd)
+
+### MSc Urban Spatial Science, University College London, London, UK | 2025.09 - 2026.09
+
+- Royal Geographical Society with IBG 认证。
+- 核心课程包括 Geographic Information Systems and Science、Data Science for Spatial Systems、Building Spatial Applications with Big Data、Spatial-Temporal Data Analysis and Data Mining、Agent-Based Modelling。
+- 发展空间数据分析、GIS、数据科学与城市建模能力，用于分析、可视化并应用复杂城市空间数据。
+
+### BSc Urban Planning and Development (Hons), Cardiff University, Cardiff, UK | 2022.09 - 2025.07
+
+- RICS 与 RTPI 认证。
+- 获 Vice-Chancellor's Scholarship 入学奖学金。
+- 毕业论文：*A Comparative Study of Regeneration in Cardiff Bay and Durban Port*。
+- 相关课程包括 Urban Regeneration、Sustainable Environment、Developing Research Methods。
+- 建立了英国规划法、可持续发展原则、城市政策、场地评估与循证规划的基础。
+
+### National Senior Certificate, The Wykeham Collegiate, Pietermaritzburg, South Africa | 2017.01 - 2021.12
+
+- 南非 IEB 课程体系，约等同于 A-Level AAA。
+- KwaZulu-Natal National Mathematics Olympiad 前 100。
+- National English Olympiad 银奖。
+- Bowman-Edgar Trophy，表彰勤奋与卓越。
+
+## 工作与实习经历
+
+### Assistant Transport Analyst, Liverpool City Region Combined Authority, Liverpool, UK | 2026.05 - 至今
+
+- 支持 Liverpool City Region 交通项目监测与评估，分析新基础设施投入后交通使用变化。
+
+### Transport Planning Intern, U.A Design China Ltd., Shanghai, China | 2024.09 - 2024.11
+
+- 远程支持上海规划与建筑设计项目。
+- 根据法定规划文件撰写开发调研报告。
+- 绘制交通规划图并参与项目汇报。
+
+### Planning Intern, Tus Design Group Ltd., Suzhou, China | 2024.06 - 2024.08
+
+- 参与旅游规划、产业园规划与社区街道更新项目。
+- 通过研究、三维建模、初步渲染与投资建议支持总体规划。
+- 使用 ArcGIS 与法定规划图为苏州平江区更新提出设施改善方案。
+- 进行居民调研，为地方更新建议提供民族志观察。
+- 与建筑与 BIM 团队合作，将时空数据融入内蒙古产业园法定总体规划。
+- 参与项目获得 2024 年苏州市城乡建设系统优秀勘察设计城市规划二等奖。
+
+### Planning Intern, Jinghailang Planning Institute, Nantong, China | 2023.06 - 2023.08
+
+- 参与启东古城旅游开发项目，进行研究、评价体系构建与文化旅游潜力评估。
+- 项目入选 2023 年江苏省旅游开发项目 Top 10。
+
+### Landscape Architecture Summer Trainee, SANFIELD (Management) Ltd., Sun Hung Kai Properties, Hong Kong | 2021.07 - 2021.08
+
+- 协助景观项目材料选择、规划执行与 Central Peak 项目展厅准备。
+- 使用 AutoCAD、SketchUp 与 Photoshop 完成公共公园更新设计任务。
+
+### Design Assistant Intern, GYSO Pearls & Jewellery Ltd., Hong Kong | 2020.07 - 2020.08
+
+- 管理展厅材料，并使用 Photoshop 编辑营销视觉素材。
+
+## 领导力与证书
+
+- School Student Staff Panel 副主席，协调师生会议并整理教学与校园体验反馈。
+- 大一 Academic Representative，担任学生与学院之间的正式沟通桥梁。
+- Cardiff University Digital Urbanist Society 创会秘书。
+- 高中 Head of Culture 与 Head of Strings Ensemble。
+- IEMA Foundation Certificate in Environmental Management Level 3，2025 年 1 月完成。
+
+## 技能
+
+### 空间分析、数据与规划工具
+
+- ArcGIS、QGIS、Google Earth Engine、SatScan、SNAP、NetLogo。
+- Python、R、SQL、SPSS、机器学习、数据挖掘。
+- AutoCAD、SketchUp、Blender、Adobe Photoshop、Illustrator、InDesign。
+- Microsoft Word、PowerPoint、Excel。
+- Git 与 GitHub。
+
+### 语言
+
+- 普通话与上海话：母语。
+- 英语：双语能力。
+- 法语：B2。
+- 日语：A2。
+- 德语：A1。
+
+## 志愿经历
+
+### CityPedia - Sustainable Transportation | 2023.01 - 至今
+
+- 担任翻译与校对，将学术研究与行业新闻翻译给非英语读者。
+- 通过超过 1,000 名成员的志愿网络，与全球建成环境与交通领域专业人士保持交流。
+
+### Planning Aid Wales | 2024.12 - 2025.08
+
+- 协助地方社区与个人理解威尔士规划体系。
+- 支持规划法规与最佳实践培训。
+- 进行政策研究、准备简报，并协助改进社区参与策略。
+
+### 社区志愿服务
+
+- 通过家庭与个人网络支持本地社区食物分发。
+- Agency for Volunteer Service Hong Kong 志愿成员。
+- 参与 Crossroads Foundation Global Distribution Computer Department 与 AVS Miracle Summer Programme。
+
+## 音乐与兴趣
+
+- 钢琴：Trinity College London Grade 8，South African National Eisteddfod 金奖。
+- Cardiff University Orchestra 键盘演奏与音乐编排。
+- 小提琴：ABRSM Grade 6，高中乐团首席。
+- 兴趣包括网球、跑步、徒步、普拉提、绘画、烘焙与旅行。
+
+[了解更多 ->](about-zh.qmd)
