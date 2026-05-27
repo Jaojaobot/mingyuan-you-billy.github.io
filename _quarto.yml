@@ -12,7 +12,7 @@ project:
     - files/
 
 website:
-  title: "Nancy (Nanxi) Lu"
+  title: "Mingyuan You (Billy)"
   page-navigation: true
   back-to-top-navigation: true
   open-graph: true
@@ -35,7 +35,7 @@ website:
         href: index-zh.qmd
         id: lang-switch
       - icon: github
-        href: "https://github.com/Nanxi-lu"
+        href: "https://github.com/Jaojaobot"
 
 format:
   html:

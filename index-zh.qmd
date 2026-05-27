@@ -1,6 +1,6 @@
 ---
-title: "陆南希（Nancy / Nanxi Lu）"
-subtitle: "伦敦大学学院 Bartlett CASA 城市空间科学硕士生"
+title: "Mingyuan You (Billy)"
+subtitle: "伦敦大学学院 MSc Housing and City Planning 硕士生"
 image: images/profile_pic.jpg
 about:
   id: hero-heading
@@ -11,49 +11,49 @@ about:
 
 ::: {#hero-heading}
 ::: {.academic-block .hero-summary}
-你好，欢迎来到我的个人作品集。
+你好，我是 Mingyuan You（Billy）。欢迎来到我的个人作品集。
 
-我是一名关注 <span class="academic-accent">城市规划</span> 与 <span class="academic-accent">空间数据</span> 的学生，研究兴趣包括城市更新、交通规划、城市空间分析与循证设计。
+我目前就读于 UCL MSc Housing and City Planning，关注 <span class="academic-accent">城市规划</span>、<span class="academic-accent">住房</span>、可持续住宅更新、规划政策、开发管理与历史建成环境保护。
 :::
 
-[<i class="bi bi-github" style="font-size: 1.5rem;"></i>](https://github.com/Nanxi-lu) [<i class="bi bi-envelope" style="font-size: 1.5rem;"></i>](mailto:nanxi.lu.25@ucl.ac.uk)
+[<i class="bi bi-github" style="font-size: 1.5rem;"></i>](https://github.com/Jaojaobot) [<i class="bi bi-envelope" style="font-size: 1.5rem;"></i>](mailto:mingyuan.you.25@ucl.ac.uk) [<i class="bi bi-linkedin" style="font-size: 1.5rem;"></i>](https://linkedin.com/in/mingyuan-you)
 
 [关于我](about-zh.qmd){.about-links .dynamic-link} [课程作品](coursework-zh.qmd){.about-links .dynamic-link} [简历](cv-zh.qmd){.about-links .dynamic-link}
 :::
 
-## 代表作品
+## 规划相关经历
 
 ::: {.project-grid}
 ::: {.project-card}
-### 伦敦日常博彩暴露的空间分布
+### 爱丁堡市议会
 
-通过空间连接、邻里暴露指标、回归模型与风险制图，分析伦敦不同社区博彩店分布与住房压力、经济不活跃及社区脆弱性之间的关系。
+Student Planner 经历，参与评估规划及相关申请，包括 listed building consent、advertisement consent 与 certificates of lawfulness。
 
-[查看项目](qm-gambling-zh.qmd)
+[查看简历](cv-zh.qmd)
 :::
 
 ::: {.project-card}
-### 芝加哥城市犯罪时空预测
+### Kampala Capital City Authority
 
-基于 2022 至 2024 年芝加哥犯罪数据，结合热点制图、时间分解、ARIMA/SARIMA 与随机森林模型，分析犯罪的时空规律与短期预测表现。
+规划实习经历，涉及大坎帕拉都会区的规划执法调查与社区调解工作。
 
-[查看项目](stdm-chicago-crime-zh.qmd)
+[查看简历](cv-zh.qmd)
 :::
 
 ::: {.project-card}
-### 伦敦道路伤亡风险空间差异
+### Anyang Zhongshen Real Estate
 
-以伦敦 MSOA 为尺度，结合空间自相关、LISA 聚类、OLS 与随机森林模型，分析道路伤亡风险的空间不平等。
+参与 Entebbe-Kampala highway 场地租赁项目市场可行性研究，包括场地调研与租赁数据收集。
 
-[查看项目](dsss-road-casualty-zh.qmd)
+[查看简历](cv-zh.qmd)
 :::
 :::
 
-## 研究兴趣
+## 专业兴趣
 
-- 城市空间分析与社区不平等
-- 交通规划、出行与可达性
-- GIS、空间统计与数据可视化
-- 城市更新与循证规划
+- 住房供应、住宅设计与可持续更新
+- 开发管理、规划政策与地方政府流程
+- 历史建筑、listed buildings 与历史建成环境保护
+- 基础设施、社区调解与循证规划
 
 [查看参考资料与项目来源](references-zh.qmd)

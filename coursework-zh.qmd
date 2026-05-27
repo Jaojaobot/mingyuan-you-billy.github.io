@@ -4,9 +4,9 @@ title: "课程作品"
 
 [English](coursework.qmd){.language-button}
 
-本页展示我在 MSc Urban Spatial Science 与 BSc Urban Planning and Development 期间完成的部分课程项目，包括已完成作品与仍在完善的研究方向。
+本页整理我在 UCL MSc Housing and City Planning 与 Cardiff University BSc Urban Planning and Development 期间的学术与规划相关作品。
 
-## MSc Urban Spatial Science, University College London
+## MSc Housing and City Planning, University College London
 
 ### Spatial Analysis - CASA0005 Geographic Information Systems and Science
 
@@ -50,15 +50,11 @@ title: "课程作品"
 
 查看项目页面：[芝加哥犯罪 STDM 项目](stdm-chicago-crime-zh.qmd)
 
-### CASA0023 Remotely Sensing Cities and Environments
-
-查看学习日志：[CASA0023 Remotely Sensing Cities and Environments 25/26 Learning Diary](https://nanxi-lu.github.io/RSCE/)
-
 ## BSc Urban Planning and Development, Cardiff University
 
 ### 城市更新毕业论文
 
-我的本科论文比较了英国 Cardiff Bay 与南非 Durban Port 的城市更新，分析不同滨水区更新路径在规划、治理与社会经济背景中的差异。
+我的本科论文研究爱丁堡在气候紧急状态下的历史保护议题。
 
 ### 其他课程方向
 

@@ -1,6 +1,6 @@
 ---
-title: "Nancy (Nanxi) Lu"
-subtitle: "Master's Student at The Bartlett Centre for Advanced Spatial Analysis, UCL"
+title: "Mingyuan You (Billy)"
+subtitle: "MSc Housing and City Planning student at UCL"
 image: images/profile_pic.jpg
 about:
   id: hero-heading
@@ -15,51 +15,51 @@ library(fontawesome)
 
 ::: {#hero-heading}
 ::: {.academic-block .hero-summary}
-Hello👋! This is Nancy, welcome to my portfolio page✨.
+Hello, I am Mingyuan You (Billy). Welcome to my portfolio.
 
-I am an <span class="academic-accent">urban planning</span> and <span class="academic-accent">spatial data</span> masters student at UCL interested in city regeneration, transport planning, urban spatial analysis and evidence-led design.
+I am an <span class="academic-accent">urban planning</span> and <span class="academic-accent">housing</span> student at UCL, motivated to pursue chartered RTPI membership within a multidisciplinary planning context.
 
-I am currently now based in London, Shanghai and Johannesburg. Scroll down for more info about me and my works! 📚
+My interests include sustainable housing delivery, retrofit, planning policy, development management, infrastructure-related workstreams and the protection of the historic built environment.
 :::
 
-[<i class="bi bi-github" style="font-size: 1.5rem;"></i>](https://github.com/Nanxi-lu) [<i class="bi bi-envelope" style="font-size: 1.5rem;"></i>](mailto:nanxi.lu.25@ucl.ac.uk)
+[<i class="bi bi-github" style="font-size: 1.5rem;"></i>](https://github.com/Jaojaobot) [<i class="bi bi-envelope" style="font-size: 1.5rem;"></i>](mailto:mingyuan.you.25@ucl.ac.uk) [<i class="bi bi-linkedin" style="font-size: 1.5rem;"></i>](https://linkedin.com/in/mingyuan-you)
 
 [About](about.qmd){.about-links .dynamic-link} [Coursework](coursework.qmd){.about-links .dynamic-link} [CV](cv.qmd){.about-links .dynamic-link}
 :::
 
-## Selected Work
+## Planning Experience
 
 ::: {.project-grid}
 ::: {.project-card}
-### Gambling Exposure in London
+### City of Edinburgh Council
 
-Spatial analysis of bookmaker distribution across London neighbourhoods, linking gambling exposure with housing pressure, economic inactivity and neighbourhood vulnerability.
+Student Planner experience assessing planning and related applications, including listed building consent, advertisement consent and certificates of lawfulness.
 
-[View project](qm-gambling.qmd)
+[View CV](cv.qmd)
 :::
 
 ::: {.project-card}
-### Chicago Crime Prediction
+### Kampala Capital City Authority
 
-Spatio-temporal analysis of Chicago crime incidents from 2022 to 2024, combining hotspot mapping, temporal decomposition, ARIMA/SARIMA and Random Forest forecasting.
+Planning internship experience involving planning enforcement work and community mediation around the Greater Kampala Metropolitan Area.
 
-[View project](stdm-chicago-crime.qmd)
+[View CV](cv.qmd)
 :::
 
 ::: {.project-card}
-### London Road Casualty Risk
+### Anyang Zhongshen Real Estate
 
-Spatial data science project analysing road casualty risk across London MSOAs, using spatial autocorrelation, LISA clusters, OLS and Random Forest modelling.
+Market feasibility research for a venue rental site on the Entebbe-Kampala highway, including site visits and rental data collection.
 
-[View project](dsss-road-casualty.qmd)
+[View CV](cv.qmd)
 :::
 :::
 
-## Research Interests
+## Professional Interests
 
-- Urban spatial analysis and neighbourhood inequality
-- Transport planning, mobility and accessibility
-- GIS, spatial statistics and data visualisation
-- Urban regeneration and evidence-led planning
+- Housing delivery, residential design and retrofit
+- Development management, planning policy and local authority processes
+- Heritage, listed buildings and the historic built environment
+- Infrastructure, community mediation and evidence-led planning
 
 [View references and project sources](references.qmd)

@@ -1,29 +1,26 @@
 ---
-title: "About me..."
+title: "About me"
 ---
 
-I am currently an MSc Urban Spatial Science student at the Bartlett Centre for Advanced Spatial Analysis, University College London. I hold a BSc Urban Planning and Development degree from Cardiff University. I am interested in city regeneration, transport planning, spatial analysis and evidence-led urban design.
+I am currently studying MSc Housing and City Planning at University College London. I hold a 2:1 in BSc Urban Planning and Development (Sandwich Year) from Cardiff University.
 
-My work combines planning knowledge with digital and analytical tools, including GIS, spatial data science, statistical analysis and urban design software. I am committed to applying digital analytics to navigate complexity and support inclusive, practical and long-term decision-making in the built environment.
+My experience spans local authority planning, development management, heritage and householders, planning enforcement, community mediation and property market research. I am motivated to pursue chartered RTPI membership and to keep building practical planning judgement across housing, retrofit, policy and the historic built environment.
 
 View my [CV](cv.qmd) and [Coursework](coursework.qmd) →
 
 ## Technical Proficiency
 
-**Languages**: Python, SQL, R
+**Planning and research**: policy interpretation, delegated planning decisions, consultation, appeal tracking, feasibility research, qualitative and quantitative research
 
-**Tools**: Git and GitHub, ArcGIS Pro, QGIS, SNAP, Google Earth Engine, NetLogo, AutoCAD, SketchUp, Blender, Adobe Illustrator, Photoshop, InDesign, Microsoft Word, PowerPoint, Excel
+**Tools**: Microsoft Office, SketchUp, DigiMaps, Uniform and IDOX case management software
 
-[View my GitHub →](https://github.com/Nanxi-lu)
+[View my GitHub →](https://github.com/Jaojaobot)
 
 ## Languages
 
--   Mandarin Chinese and Shanghainese: native
--   English: bilingual proficiency
--   French: B2 proficiency
--   Japanese: A2 working knowledge
--   German: A1 basic knowledge
+-   English
+-   Mandarin Chinese
 
 ## Interests and Hobbies
 
--   Tennis, Running, Hiking, Pilates, Painting, Baking, Travelling
+-   Parkrun, marathon fundraising, planning, housing and the historic built environment

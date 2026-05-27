@@ -2,9 +2,9 @@
 title: "Coursework"
 ---
 
-Welcome! This page showcases a collection of my academic coursework from my Master's Degree in Urban Spatial Science and my Bachelor's Degree in Urban Planning and Development. Both completed works and projects currently in progress are included below.
+This page collects academic and planning-related work from my MSc Housing and City Planning at UCL and my BSc Urban Planning and Development at Cardiff University.
 
-## MSc Urban Spatial Science, University College London
+## MSc Housing and City Planning, University College London
 
 ### Spatial Analysis - CASA0005 Geographic Information Systems and Science
 
@@ -48,15 +48,11 @@ This project analyses Chicago crime incidents from 2022 to 2024 using explorator
 
 View the project page: [Chicago Crime STDM Project](stdm-chicago-crime.qmd)
 
-### CASA0023 Remotely Sensing Cities and Environments
-
-View my Learning Diary (Webpage): [CASA0023 Remotely Sensing Cities and Environments 25/26 Learning Diary](https://nanxi-lu.github.io/RSCE/)
-
 ## BSc Urban Planning and Development, Cardiff University
 
 ### Urban Regeneration Dissertation
 
-My dissertation compared urban regeneration in Cardiff Bay, UK and Durban Port, South Africa, examining how waterfront regeneration approaches differ across planning, governance and socio-economic contexts.
+My dissertation examined historic preservation amid the climate emergency in Edinburgh.
 
 ### Other Courseworks
 
