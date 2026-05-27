@@ -9,6 +9,7 @@ project:
     - slides/
     - images/
     - coursework/
+    - files/
 
 website:
   title: "Nancy (Nanxi) Lu"
@@ -27,7 +28,7 @@ website:
       - text: "Coursework"
         href: coursework.qmd
       - text: "CV"
-        href: cv.qmd
+        href: files/cv-mingyuan-you.pdf
       - text: "References"
         href: references.qmd
       - text: "中文"

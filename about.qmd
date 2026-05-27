@@ -6,7 +6,7 @@ I am currently an MSc Urban Spatial Science student at the Bartlett Centre for A
 
 My work combines planning knowledge with digital and analytical tools, including GIS, spatial data science, statistical analysis and urban design software. I am committed to applying digital analytics to navigate complexity and support inclusive, practical and long-term decision-making in the built environment.
 
-View my [CV](cv.qmd) and [Coursework](coursework.qmd) →
+View my [CV](files/cv-mingyuan-you.pdf) and [Coursework](coursework.qmd) →
 
 ## Technical Proficiency
 
