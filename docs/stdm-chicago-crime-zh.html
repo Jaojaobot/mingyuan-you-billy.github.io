@@ -405,6 +405,40 @@ ul.task-list li input[type="checkbox"] {
 </section>
 
 <a onclick="window.scrollTo(0, 0); return false;" role="button" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a></main> <!-- /main -->
+<script>
+  (function () {
+    const pairs = {
+      "index.html": "index-zh.html",
+      "about.html": "about-zh.html",
+      "coursework.html": "coursework-zh.html",
+      "cv.html": "cv-zh.html",
+      "references.html": "references-zh.html",
+      "qm-gambling.html": "qm-gambling-zh.html",
+      "stdm-chicago-crime.html": "stdm-chicago-crime-zh.html",
+      "dsss-road-casualty.html": "dsss-road-casualty-zh.html",
+      "index-zh.html": "index.html",
+      "about-zh.html": "about.html",
+      "coursework-zh.html": "coursework.html",
+      "cv-zh.html": "cv.html",
+      "references-zh.html": "references.html",
+      "qm-gambling-zh.html": "qm-gambling.html",
+      "stdm-chicago-crime-zh.html": "stdm-chicago-crime.html",
+      "dsss-road-casualty-zh.html": "dsss-road-casualty.html"
+    };
+
+    const current = window.location.pathname.split("/").pop() || "index.html";
+    const target = pairs[current] || "index-zh.html";
+    const isChinese = current.endsWith("-zh.html");
+    const switchLink = document.querySelector('a.nav-link[href$="index-zh.html"], a.dropdown-item[href$="index-zh.html"]');
+
+    if (switchLink) {
+      switchLink.textContent = isChinese ? "EN" : "中文";
+      switchLink.setAttribute("href", target);
+      switchLink.setAttribute("aria-label", isChinese ? "Switch to English" : "切换到中文");
+      switchLink.classList.add("nav-language-switch");
+    }
+  })();
+</script>
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     // Ensure there is a toggle, if there isn't float one in the top right

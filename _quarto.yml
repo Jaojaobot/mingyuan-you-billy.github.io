@@ -32,6 +32,7 @@ website:
         href: references.qmd
       - text: "中文"
         href: index-zh.qmd
+        id: lang-switch
       - icon: github
         href: "https://github.com/Nanxi-lu"
 
@@ -42,6 +43,8 @@ format:
       dark: darkly
     css:
       - style.css
+    include-after-body:
+      - language-switch.html
     toc: true
     code-link: true
 
